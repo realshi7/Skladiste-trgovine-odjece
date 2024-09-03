@@ -1,0 +1,7 @@
+﻿  functions.c
+  izbornik.c
+C:\Users\Ledena\Desktop\skladište\skladište\functions.c(245,18): warning C4013: 'partitionMax' undefined; assuming extern returning int
+C:\Users\Ledena\Desktop\skladište\skladište\functions.c(268,18): warning C4013: 'partitionMin' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  skladište.vcxproj -> C:\Users\Ledena\Desktop\skladište\x64\Debug\skladište.exe
